@@ -51,8 +51,8 @@ const styles=StyleSheet.create({
     select_language:{
         marginVertical:30,
         marginHorizontal:40,
-        width:'55%',
-        fontSize:25,
+        width:'90%',
+        fontSize:20,
         fontFamily:'Poppins-SemiBold',
         color:Colors.purple3
     },

@@ -41,8 +41,8 @@ const styles=StyleSheet.create({
     },
     create_account_text:{
         margin:30,
-        width:'60%',
-        fontSize:25,
+        width:'80%',
+        fontSize:30,
         fontFamily:'Poppins-SemiBold',
         color:Colors.white
         
